@@ -16,6 +16,7 @@
     <string name="label_home">Welcome Home %1$s!</string>
     <string name="label_second_home">Welcome to your second home %1$s!</string>
     <string name="label_third_home">Welcome to your third home %1$s!</string>
+    <string name="text_count"> My count is: </string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="text_blank">Blank Text</string>
